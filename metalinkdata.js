@@ -1,0 +1,13 @@
+document.writeln("	<meta charset='utf-8'>");
+document.writeln("    <meta name='generator' content='CoffeeCup HTML Editor (www.coffeecup.com)'>");
+document.writeln("	<meta name='created' content='Mon, 6 Aug 2012 15:19:42 GMT'>");
+document.writeln("  <meta name='author' content='James Rochester Wen' />");
+document.writeln("	<meta name='keywords' content='aaa,asian american alliance,asian american,asian,columbia university,columbia university asian american alliance,asian american politics,politics, culture, community service' />");
+document.writeln("	<meta name='description' content='Columbia University Asian American Alliance (AAA)'  />");
+document.writeln("	<link rel='shortcut icon' href='http://www.aaacolumbia.org/wp-content/themes/aaa08/images/favicon.ico' />");
+document.writeln("    <link rel='stylesheet' href='AAACU.css' type='text/css' media='screen' />");
+document.writeln("	<link rel='alternate' type='application/rss+xml' title='Columbia University Asian American Alliance (AAA) RSS Feed' href='http://www.aaacolumbia.org/?feed=rss2' />");
+document.writeln("    <link href='http://fonts.googleapis.com/css?family=Droid+Sans:700' rel='stylesheet' type='text/css'>");
+document.writeln("    <!--[if IE]-->");
+document.writeln("    <script src='http://html5shim.googlecode.com/svn/trunk/html5.js'></script>");
+document.writeln("    <!--[endif]-->");

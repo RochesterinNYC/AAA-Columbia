@@ -1,0 +1,51 @@
+document.writeln("  <div class='homefootbar'>");
+document.writeln("    <hr width='87%' color='#0058A9' size='2' />");
+document.writeln("  </div>");
+
+
+document.writeln("<footer>");
+document.writeln("<nav id='block1'>");
+document.writeln("  <h2>Who are We?</h2>");
+document.writeln("    <ul>");
+document.writeln("	    <li><a href='#'>History</a></li>");
+document.writeln("      <li><a href='#'>Mission</a></li>");
+document.writeln("      <li><a href='meettheteam.html'>Meet the Board</a></li>");
+document.writeln("      <li><a href='#'>Social</a></li>");
+document.writeln("	    <li><a href='political.html'>Political</a></li>");
+document.writeln("      <li><a href='service.html'>Service</a></li>");
+document.writeln("	</ul>");
+document.writeln("</nav>");
+document.writeln("<nav id='block2'>");
+document.writeln("  <h2>Coalition</h2>");
+document.writeln("    <ul>");
+document.writeln("	   <li><a href='cosponsorship.html'>Cosponsorships</a></li>");
+document.writeln("     <li><a href='#'>Collaborations</a></li>");
+document.writeln("     <li><a href='#'>Solidarity</a></li>");
+document.writeln("	</ul>");
+document.writeln("</nav>");
+document.writeln("<nav id='block3'>");
+document.writeln("  <h2>Get Involved</h2>");
+document.writeln("    <ul>");
+document.writeln("      <li><a href='#'>Join the Board</a></li>");
+document.writeln("      <li><a href='#'>Events</a></li>");
+document.writeln("      <li><a href='#'>General Body</a></li>");
+document.writeln("	</ul>");
+document.writeln("</nav>");
+document.writeln("<nav id='block4'>");
+document.writeln("  <h2>Media</h2>");
+document.writeln("  <ul>");
+document.writeln("	    <li><a href='#'>Gallery</a></li>");
+document.writeln("      <li><a href='#'>Videos</a></li>");
+document.writeln("      <li><a href='http://theblaaag.tumblr.com'>Blog</a></li>");
+document.writeln("      <li><a href='https://twitter.com/aaacolumbia'>Twitter</a></li>");
+document.writeln("	  <li><a href='http://www.facebook.com/Asian.American.Alliance'>Facebook</a></li>");
+document.writeln("	</ul>");
+document.writeln("</nav>");
+document.writeln("</footer><!--footer-->");
+   
+document.writeln("  <section>");
+document.writeln("Any questions or concerns can be sent to aaacolumbia@columbia.edu.<br>");
+  
+document.writeln("Designed by James Rochester Wen<br>");
+document.writeln("Copyright Columbia Asian American Alliance");
+document.writeln("</section><!--contact--> ");
